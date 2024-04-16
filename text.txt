@@ -1,0 +1,8 @@
+1.To add a GUI to a Java program, we have to use Java's built-in libraries like AWT or Swing. 
+Example: import Swing libraries and create main frame,add components and set layout and add behavior and lastly disply the windows.
+
+2.AWT stand for: Abstract Windowing Toolkit and is one of the first Java libraries used for creating window-based applications. It provides a set of GUI components like buttons, text fields, and frames.
+
+3.Swing is a part of Java's standard library that builds upon AWT and provides a more sophisticated set of GUI components. Unlike AWT, 
+Swing components are lightweight and not dependent on the native OS's GUI, as they are written entirely in Java. 
+Swing components start with the letter 'J', such as JFrame, JButton, JTable, and so forth.
